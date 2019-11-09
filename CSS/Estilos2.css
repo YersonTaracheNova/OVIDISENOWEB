@@ -1,0 +1,49 @@
+a*{
+    margin: 0;
+    padding: 0;
+}
+
+    article{
+        text-align: center;
+    }
+    aside{
+        margin: auto;
+        max-width: 30%;
+        border-radius: 0.5em;
+        background-color: rgb(55, 76, 146);
+        background-position-y: unset;
+        text-align: right;
+    }
+
+    header {
+        background-color: rgb(26, 218, 231);
+    }
+
+    nav{
+        max-width: 90%;
+        margin: auto;
+        text-align: left;
+        font-size: 150%;
+    }
+
+    .contenedor {
+        background-color: rgb(18, 230, 53);
+        text-align: left;
+    }
+
+    .principal {
+        background-color: rgb(235, 202, 15);
+        display: inline-block;
+        width: 68%;
+        vertical-align: top;
+    }
+
+    article {
+        background-color: rgb(34, 13, 221)     
+      
+
+    }
+
+    footer {
+        background-color: rgb(192, 174, 174)
+    }
