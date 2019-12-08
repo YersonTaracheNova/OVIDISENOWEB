@@ -6,8 +6,7 @@ a*{
     nav,
     section,
     article,
-    aside,
-    footer {
+    aside{
         margin: auto;
         text-align: center;
         max-width: 95%;
@@ -49,4 +48,17 @@ a*{
 
     footer {
         background-color: rgb(192, 174, 174)
+        
+
     }
+    body {
+        background-color: rgba(18, 142, 214, 0.123); 
+        
+    }
+    footer {
+
+            margin: auto;
+            text-align: left;
+            max-width: 95%;
+            border-radius: 0.5em;
+           }

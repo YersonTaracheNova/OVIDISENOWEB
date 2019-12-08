@@ -47,3 +47,15 @@ a*{
     footer {
         background-color: rgb(192, 174, 174)
     }
+    body {
+        background-color: rgba(18, 142, 214, 0.123); 
+        
+    }
+
+    aside {
+        background-color: rgb(55, 76, 146);
+        display: inline-block;
+        width: 28%;
+        vertical-align: top;
+     }
+ 
